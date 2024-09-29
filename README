@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+Nombre = Angel David Solano Hernandez
+Comisión = 57830
+------------------------------------------------------------------------------
+Lubricentro - Pineda Motor´s 
+
+Aplicativo de nivel administrativo, inspirado en una tienda de repuestos familiar, la cual nos permite gestionar proveedores, ventas, compras, empleados y 
+clientes del sitio de venta.
+
+Mejoras 
+
+1 - El apartado visual del proyecto puede mejorar, ya que puede ser un poco confuso al principio moverse por la pagina.
+Adicional, algunos apartados no se encuentran diseñados responsive, lo que afecta la experiencia de manejo y uso.
+
+2 - Mejorar mas la legibilidad del codigo.
+
+3 - Manejar mejor la arquitectura del back.
+
+4 - Utilizar un mejor manejo de los nombres de los archivos, clases y variables, para que el codigo tenga mejor entendimiento.
+
+------------------------------------------------------------------------------
+
+Puntos no alcanzados:
+
+1 - No me dio el tiempo para crear un apartado de "About" en donde me pudiese presentar, es una futura mejora a implementar.
